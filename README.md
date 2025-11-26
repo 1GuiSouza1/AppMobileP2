@@ -4,7 +4,7 @@ Aplicativo React Native (Expo) com navegação Stack, autenticação básica e u
 
 ## Como rodar (rápido)
 1) git clone https://github.com/1GuiSouza1/AppMobileP2.git
-2) cd SEU_REPO
+2) cd AppMobileP2
 3) npm install
 4) npx expo install expo-sqlite
 5) npx expo start
