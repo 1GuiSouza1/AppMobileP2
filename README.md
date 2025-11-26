@@ -29,10 +29,5 @@ Guia completo (setup detalhado, banco, comandos, troubleshooting):
 - database/ (SQLite e initDatabase)
 - docs/ (documentação)
 
-## Contribuição
-- git checkout -b feature/nome
-- commits pequenos e descritivos
-- Pull Request para revisão
-
 ## Licença
 Defina uma licença (ex.: MIT) no arquivo LICENSE.
