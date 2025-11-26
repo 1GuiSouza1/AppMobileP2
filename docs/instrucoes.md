@@ -13,7 +13,7 @@ Para um resumo rápido, consulte o README.md na raiz do repositório.
 
 ## 2. Clonar o repositório
 Substitua SEU_REPO pela URL real.
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
+git clone https://github.com/1GuiSouza1/AppMobileP2.git
 cd SEU_REPO
 
 ## 3. Instalar dependências
