@@ -14,16 +14,15 @@ Para um resumo rápido, consulte o README.md na raiz do repositório.
 ## 2. Clonar o repositório
 Substitua SEU_REPO pela URL real.
 git clone https://github.com/1GuiSouza1/AppMobileP2.git
-cd SEU_REPO
+cd AppMobileP2
 
 ## 3. Instalar dependências
-npm install
-npx expo install expo-sqlite
-(Se usar Yarn: yarn)
+- npm install
+- npx expo install expo-sqlite
 
 ## 4. Rodar o projeto
-npx expo start
-Escolha: w (web), a (android), i (iOS), ou escaneie o QR Code com o Expo Go.
+- npx expo start
+escaneie o QR code com um smartphone.
 
 ## 5. Banco de Dados (SQLite)
 - Inicialização automática: chamada initDatabase() em App.js.
